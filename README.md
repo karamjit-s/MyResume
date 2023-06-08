@@ -1,4 +1,3 @@
 # CV webpage.
-https://karamjit-s.github.io/Personal-Webpage/index.html
-
+https://karamjit-s.github.io/MyResume/
 If you have further questions, please contact with me.
